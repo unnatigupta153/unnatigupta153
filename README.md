@@ -1,6 +1,6 @@
 # Unnati Gupta
 
-**Full-Stack Developer (MERN) | B.Tech CSE (AI/ML), Class of 2027**
+**Full-Stack Developer (MERN) | B.Tech CSE (AI/ML), Batch of 2027**
 
 I build scalable, end-to-end web applications using the MERN stack, with a growing focus on integrating AI/ML into production-ready systems.
 
