@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Aspiring+Software+Engineer;AI%2FML+%7C+Full+Stack+Developer;Building+Practical+and+Scalable+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Web+Developer;Aspiring+Software+Engineer;AI%2FML+%7C+Full+Stack+Developer;Building+Practical+and+Scalable+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -38,26 +38,26 @@
 
 # About
 
-I am a **B.Tech Computer Science and Engineering (AI/ML) student at ITS Engineering College, Greater Noida**, with a strong interest in software engineering, artificial intelligence, machine learning and full-stack application development.
+I am a **B.Tech Computer Science and Engineering (AI/ML) student at ITS Engineering College, Greater Noida**, with a strong interest in software engineering, web development, artificial intelligence, machine learning and full-stack application development.
 
-My focus is on transforming ideas into practical software products through clean development practices, problem solving, modern web technologies and AI-driven approaches.
+I enjoy building practical applications and solving real-world problems through modern technologies. My development journey includes frontend development, MERN-stack applications, authentication systems, database-driven applications and AI/ML projects.
 
-I enjoy working across the complete development lifecycle — from designing interfaces and building frontend applications to developing backend services, managing databases and exploring AI/ML solutions.
+I focus on writing clean, maintainable code while continuously improving my problem-solving and software engineering skills.
 
 ### Engineering Focus
 
 - Software Engineering & Application Development
+- Web Development
 - Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
+- MERN Stack Development
 - Backend Development & APIs
 - Database Management
 - Data Structures & Algorithms
 - Product-oriented Development
-- Cloud & Modern Developer Tooling
 
 ### Open To
 
-`Software Engineering` `Full-Stack Development` `AI/ML` `Web Development` `Internships` `Entry-Level Opportunities` `Collaborative Projects`
+`Web Development` `Software Engineering` `Full-Stack Development` `AI/ML` `Internships` `Entry-Level Opportunities` `Collaborative Projects`
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy working across the complete development lifecycle — from designing int
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
 ---
@@ -118,7 +118,7 @@ IECR is a full-stack **Indian Entertainment Content Recommendation** platform de
 | **Performance** | Responsive content discovery experience |
 | **Security** | Backend-driven application architecture |
 | **Impact** | Simplifies discovery of Indian entertainment content |
-| **Repository** | [IECR Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/) |
 
 ### Engineering Perspective
 
@@ -131,11 +131,11 @@ IECR combines a ReactJS frontend, NodeJS backend and MongoDB database into a com
 ---
 
 <details>
-<summary><b>TEM   — TRACK EVERY MOMENT </b></summary>
+<summary><b>TEM</b></summary>
 
 ### Overview
 
-TEM is one of the featured projects in my development portfolio, demonstrating practical software development, application design and implementation skills.
+TEM is a practical software development project demonstrating application development, interface design and implementation skills.
 
 | Attribute | Details |
 |---|---|
@@ -143,12 +143,12 @@ TEM is one of the featured projects in my development portfolio, demonstrating p
 | **Scale** | Application-level project |
 | **Performance** | Responsive and user-focused implementation |
 | **Security** | Structured application architecture |
-| **Impact** | Demonstrates practical software engineering and development skills |
-| **Repository** | [TEM Repository](https://github.com/) |
+| **Impact** | Demonstrates practical software engineering skills |
+| **Repository** | [View Repository](https://github.com/) |
 
 ### Engineering Perspective
 
-The project demonstrates practical experience in translating requirements into a functional software application while applying modern development practices.
+TEM demonstrates the ability to translate application requirements into a functional software solution while applying modern development practices.
 
 **Core Areas:** `Web Development` `Application Development` `UI/UX` `Problem Solving`
 
@@ -170,7 +170,7 @@ CRAVEORA-APP is a modern application project demonstrating full-stack developmen
 | **Performance** | Responsive React-based interface |
 | **Security** | Backend-integrated application architecture |
 | **Impact** | Demonstrates practical full-stack development |
-| **Repository** | [CRAVEORA-APP Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/) |
 
 ### Engineering Perspective
 
@@ -187,7 +187,7 @@ CRAVEORA-APP demonstrates practical experience in connecting a modern frontend w
 
 ### Overview
 
-MERN AUTH APP is a full-stack authentication project built around the **MongoDB, Express.js, ReactJS and Node.js ecosystem**.
+MERN AUTH APP is a full-stack authentication project built using the **MongoDB, Express.js, ReactJS and Node.js ecosystem**.
 
 | Attribute | Details |
 |---|---|
@@ -196,7 +196,7 @@ MERN AUTH APP is a full-stack authentication project built around the **MongoDB,
 | **Performance** | Responsive React-based authentication interface |
 | **Security** | Authentication-focused application architecture |
 | **Impact** | Demonstrates end-to-end MERN development and authentication concepts |
-| **Repository** | [MERN AUTH APP Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/) |
 
 ### Engineering Perspective
 
@@ -222,7 +222,11 @@ A Python-based contact management application implementing essential CRUD operat
 | **Performance** | Lightweight application |
 | **Security** | Structured record management |
 | **Impact** | Demonstrates programming and data-management fundamentals |
-| **Repository** | [Phonebook Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/) |
+
+### Engineering Perspective
+
+The project demonstrates fundamental software development concepts including structured data handling, functions, conditional logic and CRUD operations.
 
 **Core Areas:** `Python` `CRUD` `Data Management` `Problem Solving`
 
@@ -230,24 +234,51 @@ A Python-based contact management application implementing essential CRUD operat
 
 ---
 
+<details>
+<summary><b>Amazon Clone</b></summary>
+
+### Overview
+
+A frontend-focused e-commerce interface inspired by the structure and user experience patterns of a modern online shopping platform.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Scale** | Frontend web application |
+| **Performance** | Responsive interface implementation |
+| **Security** | Client-side application structure |
+| **Impact** | Demonstrates frontend engineering and UI development |
+| **Repository** | [View Repository](https://github.com/) |
+
+### Engineering Perspective
+
+The project focuses on reusable UI structures, responsive layouts and interactive frontend behavior using core web technologies.
+
+**Core Areas:** `HTML` `CSS` `JavaScript` `Responsive Design` `Frontend Development`
+
+</details>
+
+---
+
 # Experience
 
-## Intern — Samaaroh Technologies Private Limited
+## Web Developer Intern — Samaaroh Technologies Private Limited
 
 **2026 — Internship**
 
-Selected as an **Intern at Samaaroh Technologies Private Limited**, gaining practical exposure to professional software development and contributing to real-world technology projects.
+Worked as a **Web Developer Intern at Samaaroh Technologies Private Limited**, gaining hands-on experience in web development and professional software development practices.
 
 ### Scope of Work
 
-- Worked in a professional software development environment.
-- Applied programming and web development concepts to practical tasks.
-- Contributed to assigned project requirements and development activities.
-- Strengthened problem-solving, debugging and implementation skills.
-- Collaborated within a professional team environment.
-- Gained hands-on exposure to industry-oriented development workflows.
+- Developed and maintained web application features based on project requirements.
+- Worked on frontend development and responsive user interfaces.
+- Assisted in implementing and improving web application functionality.
+- Applied HTML, CSS, JavaScript and ReactJS concepts in practical development tasks.
+- Debugged application issues and improved overall functionality.
+- Collaborated with team members in an industry-oriented development environment.
+- Gained practical experience with software development workflows and version control.
 
-**Skills:** `Software Development` `Web Development` `ReactJS` `JavaScript` `Problem Solving` `Git` `GitHub`
+**Skills:** `HTML` `CSS` `JavaScript` `ReactJS` `Web Development` `Git` `GitHub` `Problem Solving`
 
 ---
 
@@ -291,6 +322,7 @@ Worked on web development tasks with an emphasis on practical application develo
 <td align="center"><b>Technical Development</b></td>
 <td>Built projects across Python, frontend development, full-stack development and AI/ML.</td>
 </tr>
+
 </table>
 
 ---
@@ -303,7 +335,7 @@ Worked on web development tasks with an emphasis on practical application develo
 
 ### Oracle
 
-<img src="https://img.shields.io/badge/Oracle-Certified%20Foundations%20Associate%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Certified%20AI%20Foundations%20Associate%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ### Coursera
 
@@ -387,6 +419,7 @@ Exploring:
   - Scalable Product Development
 
 Open To:
+  - Web Developer Roles
   - Software Engineering Opportunities
   - Full Stack Development
   - AI/ML Opportunities
@@ -397,15 +430,13 @@ Open To:
 
 Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/">
+<p align="center"><a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://github.com/">
 <img src="https://img.shields.io/badge/GitHub-Follow-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="mailto:">
 <img src="https://img.shields.io/badge/Gmail-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>---
+</a></p>---
 
 <p align="center">
   <b>“Building with curiosity, engineering with purpose, and learning every day.”</b>
