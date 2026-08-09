@@ -131,7 +131,7 @@ IECR combines a ReactJS frontend, NodeJS backend and MongoDB database into a com
 ---
 
 <details>
-<summary><b>TEM</b></summary>
+<summary><b>TEM —TRACK EVERY MOMENT </b></summary>
 
 ### Overview
 
