@@ -1,28 +1,19 @@
-
-
-
-
-<!-- ============================================ -->
-<!--              UNNATI GUPTA                    -->
-<!--        GitHub Profile README                -->
-<!-- ============================================ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=UNNATI%20GUPTA&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Aspiring+Software+Engineer;AI%2FML+%7C+Full+Stack+Developer;Building+Practical+and+Scalable+Solutions;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Aspiring+Software+Engineer;AI%2FML+%7C+Full+Stack+Developer;Building+Practical+and+Scalable+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-4c1d95?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-4c1d95?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ITS%20Engineering%20College-Greater%20Noida-6366f1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Expected%20Graduation-May%202027-7c3aed?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-312e81?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-India-312e81?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=UnnatiGupta&label=PROFILE%20VIEWS&color=6d28d9&style=flat-square"/>
 </p>
 
@@ -47,11 +38,11 @@
 
 # About
 
-I am a **B.Tech Computer Science and Engineering (AI/ML) student at ITS Engineering College, Greater Noida**, with a strong interest in software engineering, artificial intelligence, machine learning, and full-stack application development.
+I am a **B.Tech Computer Science and Engineering (AI/ML) student at ITS Engineering College, Greater Noida**, with a strong interest in software engineering, artificial intelligence, machine learning and full-stack application development.
 
-My focus is on transforming ideas into practical software products through clean development practices, problem solving, modern web technologies, and AI-driven approaches.
+My focus is on transforming ideas into practical software products through clean development practices, problem solving, modern web technologies and AI-driven approaches.
 
-I enjoy working across the complete development lifecycle — from designing interfaces and building frontend applications to developing backend services, managing databases, and exploring AI/ML solutions.
+I enjoy working across the complete development lifecycle — from designing interfaces and building frontend applications to developing backend services, managing databases and exploring AI/ML solutions.
 
 ### Engineering Focus
 
@@ -96,13 +87,6 @@ I enjoy working across the complete development lifecycle — from designing int
   <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
-</p>
-
 ---
 
 # AI / ML Expertise
@@ -111,7 +95,7 @@ I enjoy working across the complete development lifecycle — from designing int
 |---|---|---|
 | Python | Advanced | Programming, automation and problem solving |
 | Machine Learning | Intermediate | ML concepts, data preparation and model exploration |
-| AI Applications | Intermediate | Exploring practical AI-driven applications |
+| AI Applications | Intermediate | Practical AI-driven application development |
 | Recommendation Systems | Intermediate | Content recommendation and personalization |
 | Exploratory Data Analysis | Intermediate | Data exploration and analytical workflows |
 | Data Structures & Algorithms | Intermediate | Problem solving and algorithmic thinking |
@@ -125,22 +109,100 @@ I enjoy working across the complete development lifecycle — from designing int
 
 ### Overview
 
-IECR is a recommendation platform focused on **Indian movies and web series**, designed to help users discover relevant entertainment content through a recommendation-oriented experience.
+IECR is a full-stack **Indian Entertainment Content Recommendation** platform designed to help users discover relevant Indian movies and web series through a recommendation-oriented experience.
 
 | Attribute | Details |
 |---|---|
 | **Stack** | ReactJS, NodeJS, MongoDB |
 | **Scale** | Full-stack recommendation platform |
-| **Performance** | Designed for responsive content discovery |
+| **Performance** | Responsive content discovery experience |
 | **Security** | Backend-driven application architecture |
 | **Impact** | Simplifies discovery of Indian entertainment content |
-| **Repository** | GitHub project repository |
+| **Repository** | [IECR Repository](https://github.com/) |
 
 ### Engineering Perspective
 
-The project combines frontend development, backend services, database management and recommendation-oriented logic into a unified application experience.
+IECR combines a ReactJS frontend, NodeJS backend and MongoDB database into a complete entertainment discovery platform.
 
-**Core Areas:** `ReactJS` `NodeJS` `MongoDB` `Recommendation Systems` `Full Stack`
+**Core Areas:** `ReactJS` `NodeJS` `MongoDB` `JavaScript` `Recommendation Systems` `REST APIs` `Full Stack Development`
+
+</details>
+
+---
+
+<details>
+<summary><b>TEM</b></summary>
+
+### Overview
+
+TEM is one of the featured projects in my development portfolio, demonstrating practical software development, application design and implementation skills.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Web Development Technologies |
+| **Scale** | Application-level project |
+| **Performance** | Responsive and user-focused implementation |
+| **Security** | Structured application architecture |
+| **Impact** | Demonstrates practical software engineering and development skills |
+| **Repository** | [TEM Repository](https://github.com/) |
+
+### Engineering Perspective
+
+The project demonstrates practical experience in translating requirements into a functional software application while applying modern development practices.
+
+**Core Areas:** `Web Development` `Application Development` `UI/UX` `Problem Solving`
+
+</details>
+
+---
+
+<details>
+<summary><b>CRAVEORA-APP</b></summary>
+
+### Overview
+
+CRAVEORA-APP is a modern application project demonstrating full-stack development concepts, frontend implementation and backend integration.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | MERN-oriented Web Technologies |
+| **Scale** | Full-stack application |
+| **Performance** | Responsive React-based interface |
+| **Security** | Backend-integrated application architecture |
+| **Impact** | Demonstrates practical full-stack development |
+| **Repository** | [CRAVEORA-APP Repository](https://github.com/) |
+
+### Engineering Perspective
+
+CRAVEORA-APP demonstrates practical experience in connecting a modern frontend with backend services and persistent data management.
+
+**Core Areas:** `ReactJS` `NodeJS` `ExpressJS` `MongoDB` `MERN` `Full Stack Development`
+
+</details>
+
+---
+
+<details>
+<summary><b>MERN AUTH APP</b></summary>
+
+### Overview
+
+MERN AUTH APP is a full-stack authentication project built around the **MongoDB, Express.js, ReactJS and Node.js ecosystem**.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | MongoDB, Express.js, ReactJS, Node.js |
+| **Scale** | MERN authentication application |
+| **Performance** | Responsive React-based authentication interface |
+| **Security** | Authentication-focused application architecture |
+| **Impact** | Demonstrates end-to-end MERN development and authentication concepts |
+| **Repository** | [MERN AUTH APP Repository](https://github.com/) |
+
+### Engineering Perspective
+
+The project demonstrates how frontend, backend, database and authentication components can be integrated into a unified MERN application.
+
+**Core Areas:** `MongoDB` `ExpressJS` `ReactJS` `NodeJS` `MERN` `Authentication` `REST APIs`
 
 </details>
 
@@ -157,14 +219,10 @@ A Python-based contact management application implementing essential CRUD operat
 |---|---|
 | **Stack** | Python |
 | **Scale** | CRUD-based management application |
-| **Performance** | Lightweight command-driven application |
+| **Performance** | Lightweight application |
 | **Security** | Structured record management |
-| **Impact** | Demonstrates practical programming and data-management fundamentals |
-| **Repository** | GitHub project repository |
-
-### Engineering Perspective
-
-The project demonstrates fundamental software development concepts including structured data handling, functions, conditional logic and CRUD operations.
+| **Impact** | Demonstrates programming and data-management fundamentals |
+| **Repository** | [Phonebook Repository](https://github.com/) |
 
 **Core Areas:** `Python` `CRUD` `Data Management` `Problem Solving`
 
@@ -172,33 +230,26 @@ The project demonstrates fundamental software development concepts including str
 
 ---
 
-<details>
-<summary><b>Amazon Clone</b></summary>
+# Experience
 
-### Overview
+## Intern — Samaaroh Technologies Private Limited
 
-A frontend-focused e-commerce interface inspired by the structure and user experience patterns of a modern online shopping platform.
+**2026 — Internship**
 
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Frontend web application |
-| **Performance** | Responsive interface implementation |
-| **Security** | Client-side application structure |
-| **Impact** | Demonstrates frontend engineering and UI development |
-| **Repository** | GitHub project repository |
+Selected as an **Intern at Samaaroh Technologies Private Limited**, gaining practical exposure to professional software development and contributing to real-world technology projects.
 
-### Engineering Perspective
+### Scope of Work
 
-The project focuses on building reusable UI structures, responsive layouts and interactive frontend behavior using core web technologies.
+- Worked in a professional software development environment.
+- Applied programming and web development concepts to practical tasks.
+- Contributed to assigned project requirements and development activities.
+- Strengthened problem-solving, debugging and implementation skills.
+- Collaborated within a professional team environment.
+- Gained hands-on exposure to industry-oriented development workflows.
 
-**Core Areas:** `HTML` `CSS` `JavaScript` `Responsive Design` `Frontend Development`
-
-</details>
+**Skills:** `Software Development` `Web Development` `ReactJS` `JavaScript` `Problem Solving` `Git` `GitHub`
 
 ---
-
-# Experience
 
 ## Web Development Intern — Autumn House
 
@@ -240,7 +291,6 @@ Worked on web development tasks with an emphasis on practical application develo
 <td align="center"><b>Technical Development</b></td>
 <td>Built projects across Python, frontend development, full-stack development and AI/ML.</td>
 </tr>
-
 </table>
 
 ---
@@ -257,11 +307,11 @@ Worked on web development tasks with an emphasis on practical application develo
 
 ### Coursera
 
-<img src="https://img.shields.io/badge/Coursera-Exploratory%20Data%20Analysis%20for%20Machine%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 
 ### Udemy
 
-<img src="https://img.shields.io/badge/Udemy-Python%20with%20DSA%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-Python%20%26%20DSA-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 
 ---
 
@@ -279,7 +329,7 @@ Worked on web development tasks with an emphasis on practical application develo
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnnatiGupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UnnatiGupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnnatiGupta&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
 </p>
 
@@ -325,9 +375,10 @@ Learning:
 
 Building:
   - Full Stack Applications
+  - MERN Applications
   - AI/ML Projects
   - Recommendation Systems
-  - Practical Developer Projects
+  - Authentication Systems
 
 Exploring:
   - Modern Software Engineering
@@ -346,13 +397,15 @@ Open To:
 
 Connect
 
-<p align="center"><a href="https://www.linkedin.com/">
+<p align="center">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://github.com/">
 <img src="https://img.shields.io/badge/GitHub-Follow-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="mailto:">
 <img src="https://img.shields.io/badge/Gmail-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>---
+</a>
+</p>---
 
 <p align="center">
   <b>“Building with curiosity, engineering with purpose, and learning every day.”</b>
