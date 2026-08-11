@@ -25,7 +25,8 @@
     <img src="https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/GitHub-Profile-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
