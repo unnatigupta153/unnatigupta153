@@ -147,7 +147,7 @@ TEM is a practical software development project demonstrating application develo
 | **Impact** | Demonstrates practical software engineering skills |
 | **Repository** | [View Repository](https://github.com/) |
 
-### Engineering Perspective
+### Engineering Perspective  
 
 TEM demonstrates the ability to translate application requirements into a functional software solution while applying modern development practices.
 
