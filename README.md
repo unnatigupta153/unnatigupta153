@@ -363,7 +363,7 @@ Worked on web development tasks with an emphasis on practical application develo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unnatigupta153&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnatigupta153&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=unnatigupta153&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
 </p>
 
 <p align="center">
