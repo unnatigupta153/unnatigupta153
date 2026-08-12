@@ -361,39 +361,26 @@ Worked on web development tasks with an emphasis on practical application develo
 
 # GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unnatigupta153&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=unnatigupta153&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnatigupta153&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnatigupta153&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unnatigupta153&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnatigupta153&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact)
 
 ---
 
 # GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unnatigupta153&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</p>
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=unnatigupta153&theme=dark&no-frame=true&margin-w=10&margin-h=10)
 ---
 
 # Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatigupta153a&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unnatigupta153&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=C9D1D9)
 
 ---
 
 # Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UnnatiGupta/UnnatiGupta/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/unnatigupta153/unnatigupta153/output/github-contribution-grid-snake.svg)
 ---
 
 # Current Focus
