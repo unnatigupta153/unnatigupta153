@@ -362,12 +362,12 @@ Worked on web development tasks with an emphasis on practical application develo
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnnatiGupta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnnatiGupta&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=unnatigupta153&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unnatigupta153&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnnatiGupta&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnatigupta153&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 </p>
 
 ---
@@ -375,7 +375,7 @@ Worked on web development tasks with an emphasis on practical application develo
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UnnatiGupta&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=unnatigupta153&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </p>
 
 ---
@@ -383,7 +383,7 @@ Worked on web development tasks with an emphasis on practical application develo
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnnatiGupta&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatigupta153a&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
