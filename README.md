@@ -28,7 +28,7 @@
     <img 
       src="https://img.shields.io/badge/GitHub-Profile-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p>  
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/UnnatiGupta?label=Followers&style=flat-square&color=6366f1"/>
