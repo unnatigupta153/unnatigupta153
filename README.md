@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=UNNATI%20GUPTA&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 </p>
-
+    
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Web+Developer;Aspiring+Software+Engineer;AI%2FML+%7C+Full+Stack+Developer;Building+Practical+and+Scalable+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
 </p>   
