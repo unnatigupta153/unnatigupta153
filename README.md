@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India-312e81?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=UnnatiGupta&label=PROFILE%20VIEWS&color=6d28d9&style=flat-square"/>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://www.linkedin.com/">
